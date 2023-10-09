@@ -2,18 +2,8 @@
 
 # 🚀 Update your README with the current weather forcast using Go Templates, Docker, GitHub Actions 🚀
 
-https://github.com/coding-to-music/github-actions-cron-readme-weather-api
+https://github.com/pradeeptosarkar/weather_cron
 
-From / By https://github.com/huantt/weather-forecast
-
-https://dev.to/jacktt/creating-dynamic-readmemd-file-388o
-
-https://github.com/FahimFBA/test
-
-<!-- <div style="text-align:center;">
-  <img src="/images/chakra.jpg" alt="Image" />
-  <p><em>Chakra Component Library with Next.js</em></p>
-</div> -->
 
 ## Go Environment:
 
@@ -41,7 +31,7 @@ git add .
 git remote remove origin
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:coding-to-music/github-actions-cron-readme-weather-api.git
+git remote add origin git@github.com:pradeeptosarkar/weather_cron.git
 git push -u origin main
 ```
 
@@ -135,30 +125,4 @@ Now, your GitHub Actions workflow should be able to use the specific release ver
 .github/workflows/run.yml
 
 README.md.template
-```
-
-## Changes to the template for F temp
-
-Removed C temp and replaced with F temp
-
-File `handler/collector/template/daily-forcast.md.template`
-
-```java
-
-# Temperature
-            <td>{{ $weather.MinTempC }} -  {{ $weather.MaxTempC}} °C</td>
-
-# Wind
-            <td>{{ $weather.AvgWindKph}} kph</td>
-```
-
-File `handler/collector/template/hourly-forcast.md.template`
-
-```java
-
-# Temperature
-            <td>{{ $weather.AvgTempC}} °C</td>
-
-# Wind
-            <td>{{ $weather.AvgWindKph}} kph</td>
 ```

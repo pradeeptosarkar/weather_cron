@@ -112,9 +112,9 @@ jobs:
         steps:
             - uses: actions/checkout@v3
             - name: Generate README
-              uses: coding-to-music/github-actions-cron-readme-weather-api@v1.0.2
+              uses: pradeeptosarkar/weather_cron@v1.5.0
               with:
-                city: HaNoi
+                city: Hyderabad
                 days: 7
                 weather-api-key: ${{ secrets.WEATHER_API_KEY }}
                 template-file: 'README.md.template'
@@ -151,7 +151,7 @@ jobs:
 
 #### Install
 ```shell
-go install https://github.com/coding-to-music/github-actions-cron-readme-weather-api
+go install https://github.com/pradeeptosarkar/weather_cron
 ```
 
 #### Run
@@ -176,7 +176,7 @@ weather-forecast update-weather \
 --days=7 \
 --weather-api-key="$WEATHER_API_KEY" \
 --template-file='template/README.md.template' \
---city=HaNoi \
+--city=Hyderabad \
 --out-file='README.md'
 ```
 
@@ -186,7 +186,7 @@ docker run --rm \
 -v ./:/app/data \
 weather-forecast \
 --weather-api-key='XXXX' \
---city=HaNoi \
+--city=Hyderabad \
 --out-file=data/README.md \
 --template-file=data/README.md.template
 ```
