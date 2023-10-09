@@ -29,7 +29,7 @@ Sunny
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.5 kph</td><td>14 kph</td><td>14.8 kph</td><td>14 kph</td><td>13 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>14 kph</td><td>16.2 kph</td><td>16.6 kph</td><td>15.8 kph</td><td>14.4 kph</td><td>12.2 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>13 kph</td><td>14.4 kph</td><td>4 kph</td><td>13.3 kph</td>
+        <td>11.5 kph</td><td>14 kph</td><td>14.8 kph</td><td>14 kph</td><td>13 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>14 kph</td><td>16.2 kph</td><td>16.6 kph</td><td>15.8 kph</td><td>14.4 kph</td><td>12.2 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>13 kph</td><td>14.4 kph</td><td>3.6 kph</td><td>13.3 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Sunny
 </table>
 
 
-*Updated at: 2023-10-09T16:31:11Z*
+*Updated at: 2023-10-09T17:26:25Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
