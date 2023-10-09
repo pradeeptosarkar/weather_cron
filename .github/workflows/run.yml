@@ -3,15 +3,17 @@ on:
   schedule:
     - cron: "15 * * * *"
   workflow_dispatch:
-
+  push:
+    branches:
+      - main
 jobs:
-  update-weather:
+  fetch-weather-and-update-readme:
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - name: Generate README
-        uses: pradeeptosarkar/weather_cron@v1.2.4
+        uses: coding-to-music/github-actions-cron-readme-weather-api@v1.0.2
         with:
           city: Boston
           days: 7
