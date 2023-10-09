@@ -21,13 +21,13 @@
     <tr>
         <th>Temperature</th>
         {{ range $i, $weather := . -}}
-            <td>{{ $weather.AvgTempF}} °F</td>
+            <td>{{ $weather.AvgTempC}} °C</td>
         {{- end }}
     </tr>
     <tr>
         <th>Wind</th>
         {{ range $i, $weather := . -}}
-            <td>{{ $weather.AvgWindMph}} mph</td>
+            <td>{{ $weather.AvgWindKph}} kph</td>
         {{- end }}
     </tr>
 </table>
