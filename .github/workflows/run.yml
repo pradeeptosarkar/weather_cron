@@ -15,7 +15,7 @@ jobs:
       - name: Generate README
         uses: coding-to-music/github-actions-cron-readme-weather-api@v1.0.2
         with:
-          city: Boston
+          city: New Delhi
           days: 7
           weather-api-key: ${{ secrets.WEATHER_API_KEY }}
           template-file: "README.md.template"
