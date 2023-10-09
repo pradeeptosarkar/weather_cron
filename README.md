@@ -112,7 +112,7 @@ jobs:
         steps:
             - uses: actions/checkout@v3
             - name: Generate README
-              uses: coding-to-music/github-actions-cron-readme-weather-api@v1.0.2
+              uses: pradeeptosarkar/weather_cron@v1.2.3
               with:
                 city: HaNoi
                 days: 7
@@ -151,7 +151,7 @@ jobs:
 
 #### Install
 ```shell
-go install https://github.com/coding-to-music/github-actions-cron-readme-weather-api
+go install https://github.com/pradeeptosarkar/weather_cron
 ```
 
 #### Run
