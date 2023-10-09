@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate README
-        uses: pradeeptosarkar/weather_cron@v1.5.0
+        uses: pradeeptosarkar/weather_cron@v1.6.0
         with:
           city: New Delhi
           days: 7
