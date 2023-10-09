@@ -1,14 +1,14 @@
 ## Today's Weather
-
 <div align="center">
 
-`Boston, United States of America - 15/09/2023`
+`New Delhi, India - 09/10/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-Overcast
+Sunny
 
 </div>
+
 
 <table>
     <tr>
@@ -17,51 +17,53 @@ Overcast
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td><td width="200px">Cloudy</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Partly cloudy</td>
+        <td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Mist</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.9 °C</td><td>16.7 °C</td><td>16.5 °C</td><td>16.3 °C</td><td>16.1 °C</td><td>15.6 °C</td><td>15.6 °C</td><td>15.6 °C</td><td>15.8 °C</td><td>16.3 °C</td><td>16.4 °C</td><td>17.3 °C</td><td>17.7 °C</td><td>18.3 °C</td><td>19.4 °C</td><td>20.8 °C</td><td>22.5 °C</td><td>23 °C</td><td>22.5 °C</td><td>20.6 °C</td><td>18.9 °C</td><td>18.4 °C</td><td>18 °C</td><td>18.9 °C</td>
+        <td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>24.8 kph</td><td>25.2 kph</td><td>25.9 kph</td><td>26.6 kph</td><td>26.3 kph</td><td>26.3 kph</td><td>22.3 kph</td><td>19.4 kph</td><td>18.7 kph</td><td>20.5 kph</td><td>23.8 kph</td><td>31.3 kph</td><td>33.1 kph</td><td>30.2 kph</td><td>27 kph</td><td>24.8 kph</td><td>25.9 kph</td><td>24.1 kph</td><td>23.4 kph</td><td>22.7 kph</td><td>20.5 kph</td><td>19.1 kph</td><td>18 kph</td><td>24.1 kph</td>
+        <td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td>
     </tr>
 </table>
 
+
 ## Weather For Next 7 days
+
 
 <table>
     <tr>
         <th>Date</th>
-        <td>15/09/2023</td><td>16/09/2023</td><td>17/09/2023</td><td>18/09/2023</td><td>19/09/2023</td><td>20/09/2023</td><td>21/09/2023</td>
+        <td>09/10/2023</td><td>10/10/2023</td><td>11/10/2023</td><td>12/10/2023</td><td>13/10/2023</td><td>14/10/2023</td><td>15/10/2023</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Overcast</td><td width="200px">Sunny</td><td width="200px">Heavy rain</td><td width="200px">Moderate rain</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Patchy rain possible</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>15.6 -  23 °C</td><td>14 -  26.4 °C</td><td>15.9 -  17.7 °C</td><td>13.5 -  22.7 °C</td><td>10.7 -  20.9 °C</td><td>11.2 -  19.8 °C</td><td>11.7 -  19.1 °C</td>
+        <td>0 -  0 °F</td><td>0 -  0 °F</td><td>0 -  0 °F</td><td>0 -  0 °F</td><td>0 -  0 °F</td><td>0 -  0 °F</td><td>0 -  0 °F</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>33.1 kph</td><td>17.6 kph</td><td>14 kph</td><td>23 kph</td><td>14 kph</td><td>11.2 kph</td><td>11.9 kph</td>
+        <td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td>
     </tr>
 </table>
 
-_Updated at: 2023-09-16T04:08:43Z_
+
+*Updated at: 2023-10-09T12:41:25Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
-
 <details>
 <summary>
     View
@@ -76,19 +78,16 @@ You can easily embed tables in your README.md using GitHub Actions by following 
 **Step 3:** Embed one of the following entities within your `README.md.template`:
 
 - **Today's Weather Table:**
-
 ```shell
 {{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
 ```
 
 - **Daily Weather Table:**
-
 ```shell
 {{ template "daily-table" .Weathers }}
 ```
 
 - **Updated at:**
-
 ```shell
 {{ formatTime .UpdatedAt }}
 ```
@@ -99,63 +98,58 @@ If you are familiar with Go templates, you have access to the `root` variable, w
 - `UpdatedAt`: This field contains the timestamp in the format of `time.Date`.
 
 **Step 4**: Register Github Action
-
 - Create a file `.github/workflows/update-weather.yml` in your repository.
-
 ```yml
 name: "Cronjob"
 on:
 schedule:
-  - cron: "15 * * * *"
+- cron: '15 * * * *'
 
 jobs:
-  update-weather:
-    permissions: write-all
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Generate README
-        uses: coding-to-music/github-actions-cron-readme-weather-api@v1.0.5
-        with:
-          city: HaNoi
-          days: 7
-          weather-api-key: ${{ secrets.WEATHER_API_KEY }}
-          template-file: "README.md.template"
-          out-file: "README.md"
-      - name: Commit
-        run: |
-          if git diff --exit-code; then
-            echo "No changes to commit."
-            exit 0
-          else
-            git config user.name github-actions
-            git config user.email github-actions@github.com
-            git add .
-            git commit -m "update"
-            git push origin main
-          fi
+    update-weather:
+        permissions: write-all
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - name: Generate README
+              uses: coding-to-music/github-actions-cron-readme-weather-api@v1.0.2
+              with:
+                city: HaNoi
+                days: 7
+                weather-api-key: ${{ secrets.WEATHER_API_KEY }}
+                template-file: 'README.md.template'
+                out-file: 'README.md'
+            - name: Commit
+              run: |
+                if git diff --exit-code; then
+                  echo "No changes to commit."
+                  exit 0
+                else
+                  git config user.name github-actions
+                  git config user.email github-actions@github.com
+                  git add .
+                  git commit -m "update"
+                  git push origin main
+                fi
 ```
-
 - Update some variable in this file:
-  - city: The city that you want to forecast weather
-  - days: number of forecast days
-  - template-file: Path to the above template file. Eg. `template/README.md.template`
-  - out-file: your README.md file name
-  - weather-api-key:
-    - Register free API key in [https://weatherapi.com](https://weatherapi.com)
-    - Setup secrets with name `WEATHER_API_KEY` in `Your repo > settings > Secrets and variables > Actions > New repository secret`
+    - city: The city that you want to forecast weather
+    - days: number of forecast days
+    - template-file: Path to the above template file. Eg. `template/README.md.template`
+    - out-file: your README.md file name
+    - weather-api-key:
+        - Register free API key in [https://weatherapi.com](https://weatherapi.com)
+        - Setup secrets with name `WEATHER_API_KEY` in `Your repo > settings > Secrets and variables > Actions > New repository secret`
 
 **Step 5**: Commit your change, then Github actions will run as your specificed cron to update Weather into your README.md file
-
 </details>
 
-## Usage
 
+## Usage
 <details>
 <summary>View</summary>
 
 #### Install
-
 ```shell
 go install https://github.com/coding-to-music/github-actions-cron-readme-weather-api
 ```
@@ -177,7 +171,6 @@ Flags:
 ```
 
 **Sample**
-
 ```shell
 weather-forecast update-weather \
 --days=7 \
@@ -188,7 +181,6 @@ weather-forecast update-weather \
 ```
 
 ### Docker
-
 ```shell
 docker run --rm \
 -v ./:/app/data \
