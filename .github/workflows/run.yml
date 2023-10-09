@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate README
-        uses: coding-to-music/github-actions-cron-readme-weather-api@v1.0.2
+        uses: pradeeptosarkar/weather_cron@v1.3.0
         with:
           city: Boston
           days: 7
