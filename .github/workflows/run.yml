@@ -15,7 +15,7 @@ jobs:
       - name: Generate README
         uses: pradeeptosarkar/weather_cron@v1.3.0
         with:
-          city: Boston
+          city: New Delhi
           days: 7
           weather-api-key: ${{ secrets.WEATHER_API_KEY }}
           template-file: "README.md.template"
