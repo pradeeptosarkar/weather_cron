@@ -61,7 +61,7 @@ Sunny
 </table>
 
 
-*Updated at: 2023-10-09T12:11:37Z*
+*Updated at: 2023-10-09T12:16:19Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
@@ -112,7 +112,7 @@ jobs:
         steps:
             - uses: actions/checkout@v3
             - name: Generate README
-              uses: pradeeptosarkar/weather_cron@v1.2.3
+              uses: coding-to-music/github-actions-cron-readme-weather-api@v1.0.2
               with:
                 city: HaNoi
                 days: 7
@@ -151,7 +151,7 @@ jobs:
 
 #### Install
 ```shell
-go install https://github.com/pradeeptosarkar/weather_cron
+go install https://github.com/coding-to-music/github-actions-cron-readme-weather-api
 ```
 
 #### Run
