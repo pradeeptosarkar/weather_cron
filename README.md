@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>29.3 °C</td><td>28.8 °C</td><td>27.7 °C</td><td>27.5 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.9 °C</td><td>27.8 °C</td><td>29.2 °C</td><td>30.9 °C</td><td>32.6 °C</td><td>33.9 °C</td><td>35 °C</td><td>35.7 °C</td><td>36.1 °C</td><td>36.1 °C</td><td>35.7 °C</td><td>34.6 °C</td><td>33.6 °C</td><td>32.9 °C</td><td>32.4 °C</td><td>31.7 °C</td><td>28 °C</td><td>29.7 °C</td>
+        <td>29.3 °C</td><td>28.8 °C</td><td>27.7 °C</td><td>27.5 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.9 °C</td><td>27.8 °C</td><td>29.2 °C</td><td>30.9 °C</td><td>32.6 °C</td><td>33.9 °C</td><td>35 °C</td><td>35.7 °C</td><td>35.5 °C</td><td>35.6 °C</td><td>35.2 °C</td><td>34.1 °C</td><td>33.4 °C</td><td>32.8 °C</td><td>32.2 °C</td><td>31.6 °C</td><td>27 °C</td><td>29.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>5.4 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>9.4 kph</td><td>11.2 kph</td><td>12.6 kph</td><td>13 kph</td><td>14 kph</td><td>14 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>11.2 kph</td><td>10.1 kph</td><td>6.1 kph</td><td>8.6 kph</td>
+        <td>9 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>5.4 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>9.4 kph</td><td>11.2 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>13.7 kph</td><td>13.7 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>6.8 kph</td><td>8.3 kph</td>
     </tr>
 </table>
 
@@ -52,16 +52,16 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.9 -  36.1 °C</td><td>26.7 -  36.1 °C</td><td>27.2 -  37.2 °C</td><td>28.4 -  37.3 °C</td><td>28.3 -  36.5 °C</td><td>24.7 -  35.3 °C</td><td>24.1 -  31.5 °C</td>
+        <td>26.9 -  35.7 °C</td><td>26.6 -  36.2 °C</td><td>27.3 -  37.3 °C</td><td>28.2 -  37.1 °C</td><td>28.4 -  36.1 °C</td><td>25 -  35.4 °C</td><td>23.3 -  31.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14 kph</td><td>10.4 kph</td><td>12.2 kph</td><td>15.8 kph</td><td>19.1 kph</td><td>24.5 kph</td><td>14.8 kph</td>
+        <td>13.7 kph</td><td>9.4 kph</td><td>10.4 kph</td><td>18 kph</td><td>19.8 kph</td><td>21.2 kph</td><td>15.8 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-10-11T16:30:14Z*
+*Updated at: 2023-10-11T17:26:55Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
