@@ -29,7 +29,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.9 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>10.4 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>10.1 kph</td><td>12.2 kph</td><td>9.4 kph</td><td>2.5 kph</td><td>13 kph</td><td>10.1 kph</td><td>16.9 kph</td><td>22 kph</td><td>30.6 kph</td><td>19.4 kph</td><td>27.4 kph</td><td>22 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>5 kph</td><td>14.4 kph</td>
+        <td>7.9 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>10.4 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>10.1 kph</td><td>12.2 kph</td><td>9.4 kph</td><td>2.5 kph</td><td>16.9 kph</td><td>10.1 kph</td><td>16.9 kph</td><td>22 kph</td><td>30.6 kph</td><td>19.4 kph</td><td>27.4 kph</td><td>22 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>5 kph</td><td>14.4 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Moderate rain
 </table>
 
 
-*Updated at: 2023-10-16T06:30:49Z*
+*Updated at: 2023-10-16T07:22:35Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
